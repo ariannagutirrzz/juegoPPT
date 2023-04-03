@@ -47,10 +47,10 @@ while (victories < 3 && losings < 3) {
   }
 }
 alert(
-  "you havete won: " +
+  "you have won: " +
     victories +
-    "you have losed: " +
+    " you have losed: " +
     losings +
-    "you have tied: " +
+    " you have tied: " +
     ties
 );
